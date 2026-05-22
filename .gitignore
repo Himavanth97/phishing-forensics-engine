@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+static/
+
+# Forensics Artifacts
+screenshots/
+reports/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.html
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
